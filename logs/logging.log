@@ -1,0 +1,325 @@
+2019-02-07 04:52:19 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 04:52:21 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:52:21 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:52:22 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:52:22 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:53:56 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 04:54:10 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:54:10 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:54:10 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 04:54:10 INFO  EmailNotification:50 - The configuration file loaded.
+2019-02-07 04:54:10 ERROR JobManagementServiceImpl:48 - Exception occured in method JobManagementServiceImpl.scheduleJob()java.lang.NoSuchMethodException: com.email.notification.impl.EmailNotification.<init>(java.lang.String)
+2019-02-07 05:01:57 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 05:01:57 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 05:01:57 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 05:01:58 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 05:01:58 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 05:02:24 INFO  FileUtils:41 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 05:02:33 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:02:33 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:02:33 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 05:02:33 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 05:02:33 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 05:02:33 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 05:02:33 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 05:02:33 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 05:02:33 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 05:03:58 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 05:03:58 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 05:04:46 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 05:04:53 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:04:53 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:04:53 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 05:12:22 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 05:12:34 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:12:34 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:12:34 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 05:55:56 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 05:55:56 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 05:55:56 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 05:56:07 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 05:56:07 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 05:56:28 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 05:56:35 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:56:35 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 05:56:35 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:04:03 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 06:04:18 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:04:18 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:04:18 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:07:14 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 06:07:17 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:07:17 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:07:21 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:07:21 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:07:49 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 06:07:54 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:07:54 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:07:54 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:18:04 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 06:18:05 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:18:05 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:18:06 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:18:06 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:18:40 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 06:18:46 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:18:46 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:18:46 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:20:15 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 06:20:15 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:20:15 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:20:16 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:20:16 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:20:49 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 06:20:55 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:20:55 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:20:55 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:20:55 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 06:20:55 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:20:55 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 06:20:55 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:20:55 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:20:55 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:22:16 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:22:16 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:22:16 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-07 06:29:49 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 06:29:50 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:29:50 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:29:50 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 06:29:50 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 06:30:19 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 06:30:32 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:30:32 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 06:30:32 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:30:32 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 06:30:32 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:30:32 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 06:30:32 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 06:30:32 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:30:32 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:31:40 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:31:40 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 06:31:40 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-07 22:04:36 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 22:04:37 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 22:04:37 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 22:04:38 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 22:04:38 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 22:05:10 INFO  FileUtils:41 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-07 22:05:17 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:05:17 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:05:17 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:05:17 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 22:05:17 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:05:17 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 22:05:17 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:05:17 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:05:17 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:06:14 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 22:06:18 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:06:18 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:06:18 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:06:18 INFO  EmailNotification:50 - The configuration file loaded.
+2019-02-07 22:06:18 ERROR JobManagementServiceImpl:48 - Exception occured in method JobManagementServiceImpl.scheduleJob()java.lang.NoSuchMethodException: com.email.notification.impl.EmailNotification.<init>(java.lang.String)
+2019-02-07 22:06:56 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 22:07:02 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:07:02 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:07:02 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:07:03 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 22:07:03 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:07:03 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:07:03 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:07:03 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 22:07:03 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:08:38 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:08:38 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:08:38 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:08:38 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:08:38 INFO  Archieve:50 - The configuration file loaded.
+2019-02-07 22:08:38 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-07 22:08:38 INFO  Archieve:77 - The current TimeThu Feb 07 22:08:38 IST 2019
+2019-02-07 22:08:38 INFO  Archieve:123 - createZipArchive threw exception: null
+2019-02-07 22:11:45 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 22:11:45 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 22:11:45 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 22:11:46 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 22:11:46 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 22:12:29 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 22:12:43 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:12:43 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:12:43 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:12:43 ERROR JobManagementServiceImpl:48 - Exception occured in method JobManagementServiceImpl.scheduleJob()java.lang.ClassNotFoundException: com.documents.jobs.Archieve
+2019-02-07 22:12:59 INFO  FileUtils:41 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-07 22:13:02 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:13:02 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:13:02 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:13:02 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 22:13:02 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:13:02 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 22:13:02 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:13:02 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:13:02 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:14:46 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:14:46 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:14:46 INFO  Archieve:50 - The configuration file loaded.
+2019-02-07 22:14:46 INFO  Archieve:77 - The current TimeThu Feb 07 22:14:46 IST 2019
+2019-02-07 22:16:44 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-07 22:16:56 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:16:56 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:16:56 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:16:56 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 22:16:56 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:16:56 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:16:56 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 22:16:56 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:16:56 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:17:40 INFO  FileUtils:41 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-07 22:17:50 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:17:50 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:17:50 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:17:50 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 22:17:50 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:17:50 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:17:50 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:17:50 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 22:17:50 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:18:00 INFO  JobManagementServiceWrapper:93 - List of queued jobs Item : EmailNotification.jar Count : com.jobmanagement.services.SchedulerServiceImpl$JobTimer@3a329b0e
+2019-02-07 22:18:00 INFO  JobManagementServiceWrapper:93 - List of queued jobs Item : ArchievingDocumentAPI.jar Count : com.jobmanagement.services.SchedulerServiceImpl$JobTimer@797e8b7a
+2019-02-07 22:18:46 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:18:46 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:18:46 INFO  Archieve:50 - The configuration file loaded.
+2019-02-07 22:18:46 INFO  Archieve:77 - The current TimeThu Feb 07 22:18:46 IST 2019
+2019-02-07 22:18:59 INFO  JobManagementServiceWrapper:93 - List of queued jobs Item : EmailNotification.jar Count : com.jobmanagement.services.SchedulerServiceImpl$JobTimer@3a329b0e
+2019-02-07 22:20:46 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:20:46 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:20:46 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:20:46 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-07 23:26:24 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 23:26:24 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 23:26:24 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 23:26:26 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 23:26:26 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 23:53:52 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 23:53:53 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 23:53:53 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 23:53:58 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 23:53:58 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:03:26 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-08 00:06:43 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:06:43 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:06:43 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:06:43 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:06:43 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:06:43 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-08 00:15:26 INFO  FileUtils:41 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-08 00:15:30 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:15:30 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:15:30 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:15:30 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:15:30 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:15:30 INFO  Archieve:50 - The configuration file loaded.
+2019-02-08 00:15:30 INFO  Archieve:77 - The current TimeFri Feb 08 00:15:30 IST 2019
+2019-02-08 00:17:09 INFO  FileUtils:41 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-08 00:17:21 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:17:21 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:17:21 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:17:21 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:17:21 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:17:21 INFO  Archieve:50 - The configuration file loaded.
+2019-02-08 00:17:21 INFO  Archieve:77 - The current TimeFri Feb 08 00:17:21 IST 2019
+2019-02-08 00:19:29 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-08 00:19:34 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:19:34 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:19:34 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:19:34 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:19:34 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:19:34 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-08 00:20:29 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-08 00:20:31 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:20:31 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:20:31 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:20:31 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:20:31 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:20:31 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-08 00:22:29 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-08 00:22:30 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:22:30 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-08 00:22:30 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-08 00:22:30 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:22:49 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-08 00:22:49 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:22:49 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-08 00:22:50 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-08 00:22:50 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:23:18 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-08 00:23:18 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:23:18 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-08 00:23:19 INFO  ScheduleJobFormImpl:158 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-08 00:23:19 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-08 00:24:54 INFO  FileUtils:41 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-08 00:25:01 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:25:01 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:25:01 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:25:01 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:25:01 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:25:01 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:25:01 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:25:01 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:25:01 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:26:19 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:26:19 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:26:19 INFO  Archieve:50 - The configuration file loaded.
+2019-02-08 00:26:19 INFO  Archieve:77 - The current TimeFri Feb 08 00:26:19 IST 2019
+2019-02-08 00:26:25 INFO  FileUtils:41 - File EmailNotification.jar is copied to EmailNotification.jar
+2019-02-08 00:26:33 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:26:33 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-08 00:26:33 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:26:33 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-08 00:26:33 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:26:33 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-08 00:26:33 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:26:33 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-08 00:26:33 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:26:54 INFO  JobManagementServiceWrapper:93 - List of queued jobs Item : EmailNotification.jar Count : com.jobmanagement.services.SchedulerServiceImpl$JobTimer@541ba0ed
+2019-02-08 00:29:04 INFO  JobManagementServiceWrapper:57 - Start of the method JobManagementServiceWrapper.checkStatusOfJob()
+2019-02-08 00:29:04 INFO  JobManagementServiceWrapper:62 - The job have been executed successfully
+2019-02-08 00:29:04 INFO  JobManagementServiceWrapper:74 - End of the method JobManagementServiceWrapper.checkStatusOfJob()
+2019-02-08 00:29:54 INFO  JobManagementServiceWrapper:81 - List of running jobs Item : ArchievingDocumentAPI.jar Count : com.documents.jobs.Archieve@6df8ba1c
+2019-02-08 00:29:54 INFO  JobManagementServiceWrapper:81 - List of running jobs Item : Listener Job Count : com.jobmanagement.temp.jobs.JobFirst@176ab6ce
+2019-02-08 00:33:19 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:33:19 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-08 00:33:19 INFO  EmailNotification:48 - The configuration file loaded.
+2019-02-08 00:37:28 INFO  JobManagementServiceWrapper:114 - List of success jobsEmailNotification.jar Count : com.email.notification.impl.EmailNotification@1cc16123
+2019-02-08 00:37:28 INFO  JobManagementServiceWrapper:114 - List of success jobsArchievingDocumentAPI.jar Count : com.documents.jobs.Archieve@6df8ba1c
+2019-02-08 00:37:28 INFO  JobManagementServiceWrapper:114 - List of success jobsListener Job Count : com.jobmanagement.temp.jobs.JobFirst@176ab6ce
